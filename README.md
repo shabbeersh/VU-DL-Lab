@@ -13,7 +13,7 @@ sudo apt install git
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/vaidhav-adit/VU-DL-Lab-Setup.git](https://github.com/vaidhav-adit/VU-DL-Lab-Setup.git)
+git clone https://github.com/vaidhav-adit/VU-DL-Lab-Setup.git
 cd VU-DL-Lab
 cd Setup
 ```
